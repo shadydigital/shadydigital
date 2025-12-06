@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shadydigital
-- 👀 I’m interested in R and Data Analytics for Marketing
-- 🌱 I’m currently learning R Language
-- 💞️ I’m looking to collaborate on Data Analytics for Marketing
+- ✨ Expert in SEO & Google Ads
+- 👀 Interested in Launching new digital products
+- 🌱 I worked as, Web Developer, Digital Marketing Manager, Project Manager, Product Manager & Consultant for startups
 - 📫 How to reach me : https://linkedin.com/in/ShadyDigital
 
 <!---
